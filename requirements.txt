@@ -1,5 +1,0 @@
-fastapi
-uvicorn[standard]
-httpx
-beautifulsoup4
-pycryptodome
